@@ -1,0 +1,7 @@
+Credentials cache: API:1424290
+        Principal: mkrubini@42SP.ORG.BR
+
+  Issued                Expires               Principal
+Sep 30 20:28:01 2019  Oct  3 20:27:30 2019  krbtgt/42SP.ORG.BR@42SP.ORG.BR
+
+
